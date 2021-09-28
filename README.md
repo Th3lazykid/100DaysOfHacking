@@ -2,7 +2,7 @@
 
 - Hacking and Learning consistently for 100 days straight af. [yes, no breaks]
 - This Repo is one stop to all the resources shared on Twitter - [Th3lazykid](https://twitter.com/Th3lazykid). Following will cost you a $, kidding.
-- With having no good control over consistency and persistence, this is something hard and challenging, but let's do it. 
+- With having no good control over consistency and persistence, this is something hard and challenging, but let's do it. Baby Steps it is.
 
 # Objective
 
