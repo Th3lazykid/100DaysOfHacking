@@ -9,7 +9,3 @@
 | ----------- | ----------- |
 | 29th September, 2021 | 28th December, 2021 |
 
----
-
-Day-1: “War is ninety percent information.” — Napoleon
-
