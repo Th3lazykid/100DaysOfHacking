@@ -21,3 +21,5 @@
 Day | Topic
 --- | ---
 **1** |  [Networking Basics - 01](/Days/Day1.md)
+**2** |  [Networking Basics - 02](/Days/Day2.md)
+
