@@ -20,4 +20,4 @@
 
 Day | Topic
 --- | ---
-**1** |  [tbd](/Days/Day1.md)
+**1** |  [Networking Basics - 01](/Days/Day1.md)
