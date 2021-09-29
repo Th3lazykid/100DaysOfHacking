@@ -13,6 +13,8 @@ Since I'm too weak in Networking theory - starting with basic labs on Tryhackme.
   - Packets & Frames
   - Extending Your Network
 
+https://tryhackme.com/Th3lazykid/badges/network-fundamentals
+
 ### Extra's:
 
 - [X] Darknet Diaries 
