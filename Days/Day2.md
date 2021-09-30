@@ -8,6 +8,7 @@
    - [Atlas](https://tryhackme.com/room/atlas): Until now I was mostly solving Linux boxes or say machines, this room gave a good high-level overview of attacking a Windows machine, gotta start with understanding Windows fundamentals next. 
   
 - [X] HackTheBox Academy: 
+   - [Networking Fundamentals](https://academy.hackthebox.com/module/details/34): Did a good recap of what learnt yesterday on THM, tbh I really liked the way of explaining things on HTB Academy if compared with TryHackMe, still same concepts and now kinda good with Theory. But doing on both platforms helped me understand in a much better way. Also there were some concepts like [Proxy](https://www.youtube.com/watch?v=AuINJdBPf8I) for which I had to watch few YouTube Videos. 
 
 ### Extra's:
 
