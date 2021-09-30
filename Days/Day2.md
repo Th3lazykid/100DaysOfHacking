@@ -4,7 +4,10 @@
 
 ### Things Done Today:
 
-Day-1 was good, 
+- [X] TryHackMe:
+   - [Atlas](https://tryhackme.com/room/atlas): Until now I was mostly solving Linux boxes or say machines, this room gave a good high-level overview of attacking a Windows machine, gotta start with understanding Windows fundamentals next. 
+  
+- [X] HackTheBox Academy: 
 
 ### Extra's:
 
