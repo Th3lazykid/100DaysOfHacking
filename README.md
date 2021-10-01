@@ -22,4 +22,5 @@ Day | Topic
 --- | ---
 **1** |  [Networking Basics - 01 & Darknet Diaries Ep 101](/Days/Day1.md)
 **2** |  [Networking Basics - 02 & Darknet Diaries Ep 85](/Days/Day2.md)
+**3** |  [Windows Fundamentals - 01 & Darknet Diaries Ep 82](/Days/Day3.md)
 
