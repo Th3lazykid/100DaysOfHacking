@@ -7,7 +7,7 @@
 - [X] **HackTheBox Academy:**
   - [Windows Fundamentals](https://academy.hackthebox.com/course/preview/windows-fundamentals): Instead of pretty hectic day, covered half of the module. And damn, gotta give a respect to the creator for such a detailed content. Not sure if I can complete the module by tomorrow as gotta go uni tomorrow for a presentation. 
 
-- [X] **[BSIDES AHMEDABAD 2021](https://bsidesahmedabad.in/2021/) Conference:** Booked my tickets for the same, excited to network with amazing hackers and much more. LFG. If you are attending, do lemme know. :)
+- [X] **[BSIDES AHMEDABAD 2021](https://bsidesahmedabad.in/2021/) Conference:** Booked my tickets for the same [My First IRL Conference], excited to network with amazing hackers and much more. LFG. If you are attending, do lemme know. :)
 
 ### Extra's
 
