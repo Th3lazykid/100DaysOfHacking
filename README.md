@@ -25,5 +25,6 @@ Day | Topic
 **3** |  [Windows Fundamentals - 01 & Darknet Diaries Ep 82](/Days/Day3.md)
 **4** |  [Windows Fundamentals - 02 & Darknet Diaries Ep 98](/Days/Day4.md)
 **5** |  [Windows Fundamentals - 03 & Darknet Diaries Ep 24](/Days/Day5.md)
+**6** |  [Darknet Diaries Ep 58 & Burp Suite Blog](/Days/Day6.md)
 
 
