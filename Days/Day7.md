@@ -3,7 +3,8 @@
 # Day-7 Summary:
 
 ### Things Done Today:
- 
+
+- [X] Made Resume and applied to an Internship.
 - [X] **Blog of the day:**
   - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/): (Twitter) was famous yesterday and you know why. Pretty well explained blog of how Facebook Disappeared from the Internet. Not just that, but Instagram and Whatsapp were down as well. 
 
