@@ -3,10 +3,17 @@
 - Hacking and Learning consistently for 100 days straight af. [yes, no breaks]
 - This Repo is one stop to all the resources shared on Twitter - [Th3lazykid](https://twitter.com/Th3lazykid) each day. Following will cost you a $, kidding.
 - With having no good control over consistency and persistence, this is something hard and challenging, but let's do it. Baby Steps it is.
+- Inspirations works both ways, 
+  - Somehow if this repo or the initiative helps you to take an initiative, I would not be enough proud.
 
 # Objective
 
 <img width="590" alt="Screenshot 2021-09-29 at 2 36 12 AM" src="https://user-images.githubusercontent.com/56188454/135165713-184ed135-7024-4353-a436-e4cfeea751c3.png">
+
+### What people say?
+
+<img width="583" alt="Screenshot 2021-10-05 at 7 15 32 PM" src="https://user-images.githubusercontent.com/56188454/136035690-9d02dfa5-f515-4230-95a4-0279834ac1ea.png">
+
 
 # Commitment Timeline xD
 
