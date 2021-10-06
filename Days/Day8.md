@@ -8,7 +8,8 @@
 <img width="590" alt="Screenshot 2021-10-07 at 12 49 48 AM" src="https://user-images.githubusercontent.com/56188454/136268953-58cf6fc1-10f0-4b7a-94ca-eb72d65081e5.png">
 
 - [X] **LiveOverflow YouTube:**
-  - 
+  - [Video Essay about the Security Creator Scene](https://www.youtube.com/watch?v=mDAwSrH4fqU): I just love how this man put out his content in just so freaking creative way, The mind all craves for, hmm not sure about all, but sure count me in. Nevertheless, watch this out. Link to article [here](http://phrack.org/issues/70/15.html#article) as well.
+    - Know more about phrack: http://phrack.org/
 
 ### Extra's
 
