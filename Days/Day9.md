@@ -4,6 +4,11 @@
 
 ### Things Done Today:
 
+- [X] **TryHackMe:** I was supposed to be working and completing the Windows fundamentals room from HTB, but this new room caught my eye on THM. Sadge.
+  - [Introduction To Honeypots](https://tryhackme.com/room/introductiontohoneypots): Prettyy amazing room, gotta do more of this to understand this honeypots thing well, but got a good overview of what it is and about the cowrie honeypot. 100% recommend it, also, it's is a free room. Below are 2 blogs helped me much better with compeleting the room.
+    - [Honeypot Logs: A Botnet’s Search for Mikrotik Routers](https://malwaremily.medium.com/honeypot-logs-a-botnets-search-for-mikrotik-routers-48e69e110e52)
+    - [Outlaw is Back, a New Crypto-Botnet Targets European Organizations](https://yoroi.company/research/outlaw-is-back-a-new-crypto-botnet-targets-european-organizations/)
+
 
 ### Extra's
 
