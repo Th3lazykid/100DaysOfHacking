@@ -36,5 +36,6 @@ Day | Topic
 **7** |  [Internship-try 01 & Darknet Diaries Ep 56](/Days/Day7.md)
 **8** |  [YouTube & Darknet Diaries Ep 72](/Days/Day8.md)
 **9** |  [Honeypots & Darknet Diaries Ep 53](/Days/Day9.md)
+**10** |  [Windows Fundamentals - 04 & Darknet Diaries Ep 71](/Days/Day10.md)
 
 
