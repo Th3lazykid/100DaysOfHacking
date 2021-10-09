@@ -37,5 +37,5 @@ Day | Topic
 **8** |  [YouTube & Darknet Diaries Ep 72](/Days/Day8.md)
 **9** |  [Honeypots & Darknet Diaries Ep 53](/Days/Day9.md)
 **10** |  [Windows Fundamentals - 04 & Darknet Diaries Ep 71](/Days/Day10.md)
-
+**11** |  [Blogs & Darknet Diaries Ep 73 & North Korea](/Days/Day11.md)
 
