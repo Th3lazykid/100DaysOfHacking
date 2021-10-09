@@ -4,11 +4,15 @@
 
 ### Things Done Today:
 
-- [X] **HackTheBox Academy:**
-  - [Windows Fundamentals](https://academy.hackthebox.com/course/preview/windows-fundamentals):
+- [X] **Blogs:**
+  - [How to become a Pentester](https://www.hackthebox.eu/blog/how-to-become-a-pentester) - Hackthebox
+  - [Osint Cyber Research](https://www.hackthebox.eu/blog/osint-cyber-research) - Hackthebox
 
 
 ### Extra's
+
+- [X] **YouTube:** 
+  - [My Daily Life In NORTH KOREA (MYSTERIOUS 7 DAY TRIP)](https://www.youtube.com/watch?v=uMoSyk0rK9s): TBH, so confused about North Korea, watching this video makes me feel like it's such a beautiful place and reading to other stories it feels like it's jail. Maybe I gotta do some research, I gotta learn about North Korea more.
 
 - [X] **Darknet Diaries:**
 
