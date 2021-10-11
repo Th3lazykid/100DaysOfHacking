@@ -24,6 +24,7 @@
     - How to find & Exploit SSRF
     - White box and Black box testing perspective
     - SSRF Preventions
+    - Resources to learn more about SSRF
 
 <img width="334" alt="Screenshot 2021-10-11 at 11 02 50 PM" src="https://user-images.githubusercontent.com/56188454/136831490-b347f64c-4962-4311-b861-48d05dcc9881.png">
  
