@@ -15,7 +15,7 @@
   - Usually in order to get early access to all the modules you need to purchase it, but I was lucky enough to get it for free. 
   - All the content is made available freely [here](https://www.youtube.com/c/RanaKhalil101) on Youtube, releasing per video of module each week. As said above in order to get early access and not to wait for the same, you gotta pay for it. Paying includes extra perks, such as Invitation to Discord server.
   - She usually covers topics present in [Web-security Academy](https://portswigger.net/web-security/).
-  - For each module, First video is about the Vulnerability, Basically a quick overview with good examples. And the rest are of labs, also within labs -- first part is solving using manual techniques, while the rest using automation -- which is usally Python.
+  - For each module, First video is about the Vulnerability, Basically a quick overview with good examples. And the rest are of labs, also within labs -- first part is solving using manual techniques, while the rest using automation -- which is usually using Python lang.
   - She recently released the SSRF Module and I've started with same as well. 
   - Did the First video which was basics about the vulnerability, gotta to know more about:
     - What is SSRF
