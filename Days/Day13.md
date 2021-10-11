@@ -7,7 +7,7 @@
 - [X] Wreath Network: Finally, started with Wreath Network today, 
   - There are total of 9 sub-divided topics and 46 tasks in the whole network module out of which;
     - Today, done with 2 sub-divided topics [Intro and Web-server] and 6 tasks. 
-    - It was about, things i'm gonna learn throught this network, Backstory helping to get an overview of the whole network and starting with exploiting Web-Sever anf getting root on linux machine in the network. 
+    - It was about, things I'm gonna learn through out this network, Backstory helping to get an overview of the whole network and starting with exploiting Web-Sever anf getting root on linux machine in the network. 
 
 - [X] GitBook: Created and Organized my Lazy space on Gitbook - https://th3lazykid.gitbook.io/ , Check it out to know more about me [feedbacks are welcomed]. Gonna use it to write blogs as well as document other important stuff, kinda my portfolio website.
 
