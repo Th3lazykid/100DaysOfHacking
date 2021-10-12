@@ -1,5 +1,5 @@
 
-#Check out the full explanation of this code: /day14.md
+#Check out the full explanation of this code: /Days/day14.md
 
 from typing import Mapping
 import requests
