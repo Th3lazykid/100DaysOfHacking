@@ -1,4 +1,4 @@
-"Sometimes in life, you have to make a selfish decision and do what's best for you." -- Saquon Barkley
+"Sometimes in life, you have to make a selfish decision and do what's best for you." - Saquon Barkley
 
 # Day-13 Summary:
 
