@@ -4,7 +4,8 @@
 
 ### Things Done Today:
 
-- [X] Wreath Network:
+- [X] Wreath Network: Started with Pivoting sub-divided topic and done until task 10 out of 46. 
+ - There are more 5 tasks in this Pivoting sub-topic, after doing so, will write a whole good summary about pivoting here, which means it's tomorrow. 
 
 - [X] SSRF Lab #1: [Web-Security Academy](https://portswigger.net/web-security/) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
    - Done with lab#1 today: It was pretty easy and understood the python code [Check out the [full code in good format here](/Python/SSRF-lab1.py)], which I'm gonna tryna explain you people here below. 
