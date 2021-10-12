@@ -1,7 +1,6 @@
 
 #Check out the full explanation of this code: /Days/day14.md
 
-from typing import Mapping
 import requests
 import sys
 import urllib3
