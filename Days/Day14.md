@@ -64,5 +64,6 @@ def delete_user(url):
     else:
         print("(-) Exploit was Unsuccessful.")
 ```
+<img width="975" alt="Screenshot 2021-10-12 at 2 45 13 PM" src="https://user-images.githubusercontent.com/56188454/136928028-af5b83df-95d0-4138-aa05-8be47a4fed2e.png">
 
 
