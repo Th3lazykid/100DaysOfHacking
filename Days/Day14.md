@@ -7,7 +7,7 @@
 - [X] Wreath Network:
 
 - [X] SSRF Lab #1: [Web-Security Academy](https://portswigger.net/web-security/) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
-   - Done with lab#1 today: It was pretty easy and understood the python code [Check out the full code in good format here], which I'm gonna tryna explain you people here below. 
+   - Done with lab#1 today: It was pretty easy and understood the python code [Check out the [full code in good format here](/Python/SSRF-lab1.py)], which I'm gonna tryna explain you people here below. 
 
 1. Importing all the modules. Also disabling the warnings incase of not having the valid certificate.
 
