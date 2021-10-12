@@ -40,3 +40,4 @@ Day | Topic
 **11** |  [Blogs & Darknet Diaries Ep 73 & North Korea](/Days/Day11.md)
 **12** |  [Windows Fundamentals - 05](/Days/Day12.md)
 **13** |  [Wreath Network 01 & SSRF & GitBook](/Days/Day13.md)
+**14** |  [Wreath Network 02 & SSRF Lab #1](/Days/Day14.md)
