@@ -7,6 +7,17 @@
 - Was supposed to complete the Pivoting sub-topic in Wreath Network, but understanding python code for SSRF lab #2 consumed most of my day, so instead of that, I listend to Darknet Diaries Ep 102. 
 
 - [X] **SSRF Lab #2:** [Web-Security Academy](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
+  - Done with lab#2 today: It was pretty easy and understanding to the python code was a bit difficult, I mean it took time [Check out the full code in good format here], which I'm gonna tryna explain you people here below.
+
+1. Importing all the modules. Also disabling the warnings incase of not having the valid certificate.
+
+```
+import requests
+import sys
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+```
+2. d
 
 - [X] **Darknet Diaries:**
 
