@@ -41,4 +41,4 @@ Day | Topic
 **12** |  [Windows Fundamentals - 05](/Days/Day12.md)
 **13** |  [Wreath Network 01 & SSRF & GitBook](/Days/Day13.md)
 **14** |  [Wreath Network 02 & SSRF Lab #1](/Days/Day14.md)
-**15** |  [Wreath Network 03 & SSRF Lab #2](/Days/Day15.md)
+**15** |  [Wreath Network 03 & SSRF Lab #2 & Darknet Diaries Ep 102](/Days/Day15.md)
