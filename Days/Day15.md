@@ -4,6 +4,10 @@
 
 ### Things Done Today:
 
-- [X] Wreath Network:
+- [X] **Wreath Network:** 
 
-- [X] SSRF Lab #2: [Web-Security Academy](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
+- [X] **SSRF Lab #2:** [Web-Security Academy](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
+
+- [X] **Darknet Diaries:**
+
+  - [EP 102: Money Maker](https://darknetdiaries.com/episode/102/): 
