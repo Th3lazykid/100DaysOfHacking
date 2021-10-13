@@ -4,7 +4,7 @@
 
 ### Things Done Today:
 
-- [X] **Wreath Network:** 
+- Was supposed to complete the Pivoting sub-topic in Wreath Network, but understanding python code for SSRF lab #2 consumed most of my day, so instead of that, I listend to Darknet Diaries Ep 102. 
 
 - [X] **SSRF Lab #2:** [Web-Security Academy](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
 
