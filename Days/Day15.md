@@ -28,7 +28,7 @@ def main():
     if len(sys.argv) !=2:
         print("(+) Usage %s <url>" % sys.argv[0])
         print("(+) Example: %s Th3lazykid.gitbook.io" % sys.argv[0])
-        
+        sys.exit[-1]
 
     url = sys.argv[1]
     print("(+) Findin admin hostname")
@@ -38,7 +38,7 @@ def main():
     delete_user(url, admin_ip_address)
 ```
 
-3. d
+3. Here we are defining the "check_admin_hostname(url)", where we basically gotta scan the whole internal network and find the correct address of admin. So at first we provide the stock path, next we make a variable name "admin_hostname" with empty string. With the help of `for loop` we are scanning this whole thing, and while scanning the network if the status code == 200, that means we got the address and the for loop will break, Next setting up another for loop, for like what if we don't find any of the ip address correct? this will print out: `(-) Could not find admin hostname.`.
 
 ```
 def check_admin_hostname(url):
@@ -56,7 +56,7 @@ def check_admin_hostname(url):
     return admin_ip_address
 ```
 
-4. dd
+4. Here we are defining the `delete_user(url, admin_ip_address)`, so after getting the correct admin Ip, it's time to check out the source code and get the path to delete any user, and then delete the user name carlos. So at first here we are adding the payloads and the path and making the request to the url to delete the user name carlos. Next after deleting, we gotta check if the user carlos is actually got deleted or not, right? So in the next code, we are using the payload of the admin path, cause after deletion of any user it redirects to the admin path and says the message that `User deleted successfully`. Again making the request with the payload and the params, and checking the response for the keyword `User deleted successfully`, if it is there, that means we are successful with the program but if not it outputs as that exploit was unsuccessful. I'M SO FUCKING BAD AT EXPLAINING THINGS. HOPE I IMPROVE WHILE DOING THIS. THANK YOU FOR STICKING WITH ME UNTIL NOW. [GOD BLESS YOU XD]
 
 ```
 def delete_user(url, admin_ip_address):
