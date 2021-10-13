@@ -8,6 +8,7 @@
 
 - [X] **SSRF Lab #2:** [Web-Security Academy](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
   - Done with lab#2 today: It was pretty easy and understanding to the python code was a bit difficult, I mean it took time [Check out the full code in good format here], which I'm gonna tryna explain you people here below.
+  - Check out the full code in good format [HERE](/Python/SSRF-lab2.py).
   - Goal of the lab: use the stock check functionality to scan the internal 192.168.0.X range for an admin interface on port 8080, then use it to delete the user carlos. 
 
 1. Importing all the modules. Also disabling the warnings incase of not having the valid certificate.
@@ -73,12 +74,8 @@ def delete_user(url, admin_ip_address):
         print("(+) Successfully deleted Carlos user")
     else:
         print("(-) Exploit was unsuccessful.")
-
-def main():
-    if len(sys.argv) !=2:
-        print("(+) Usage %s <url>" % sys.argv[0])
-        print("(+) Example: %s Th3lazykid.gitbook.io" % sys.argv[0])
 ```
+
 - [X] **Darknet Diaries:**
 
   - [EP 102: Money Maker](https://darknetdiaries.com/episode/102/): Such a amazing story of Frank Bourassa, how he started re-selling stolen clothes to making $250 million fake money - $20 US bills. Counterfeiting money is really complex process, getting paper, ink, printers, etc. Loved how he made up the story and got the papers needed to make the fake money, which is to be considered the hardest part in the whole process. Listen to the podcast to know how he got caught and how his lawyer used "Big Brains", that saved him from getting 60 years around of prision but instead just $1500 fine. 
