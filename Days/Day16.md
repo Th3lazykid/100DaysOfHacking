@@ -16,5 +16,5 @@
       - hence the payload: http://127.1/%25%36%31dmin
       - payload to delete the user carlos: http://127.1/%25%36%31dmin/delete?username=carlos
 
-  - Automation: Find the python code [HERE](/Python/SSRF-lab3.py). Not explaining because it is the same script as lab-1, just payload diff. So check out the explanation [here][/Days/Day14.md].
+  - Automation: Find the python code [HERE](/Python/SSRF-lab3.py). Not explaining because it is the same script as lab-1, just payload diff. So check out the explanation [here](/Days/Day14.md).
 
