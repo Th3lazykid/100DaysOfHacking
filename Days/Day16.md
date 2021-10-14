@@ -4,7 +4,7 @@
 
 ### Things Done Today: 
 
-- Really hooked to SSRF Port-Swigger labs. 
+- Pretyy busy day with college stuff, and since really hooked to SSRF Port-Swigger labs, gonna complete these labs and will then continue with the wreath network. 
 
 - [X] **SSRF Lab #3:** [Web-Security Academy - SSRF with blacklist-based input filter](https://portswigger.net/web-security/ssrf/lab-ssrf-with-blacklist-filter) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
 
