@@ -4,5 +4,8 @@
 
 ### Things Done Today:
 
-- [X] **SSRF Lab #2:** [Web-Security Academy](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
-  -  
+- [X] **SSRF Lab #4:** [Web-Security Academy - SSRF with whitelist-based input filter](https://portswigger.net/web-security/ssrf/lab-ssrf-with-whitelist-filter) -- PortSwigger; [Rana Khalil's Course](https://ranakhalil.teachable.com/);
+  
+  -  Goal: Change the stock check URL to access the admin interface at http://localhost/admin and delete the user carlos. 
+  -  Condition:  The developer has deployed an anti-SSRF defense you will need to bypass. 
+  -  Solution: 
