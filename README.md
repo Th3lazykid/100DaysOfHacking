@@ -44,5 +44,5 @@ Day | Topic
 **15** |  [SSRF Lab #2 & Darknet Diaries Ep 102](/Days/Day15.md)
 **16** |  [SSRF Lab #3](/Days/Day16.md)
 **17, 18 & 19** |  [SSRF Lab #4, #5, #6 & #7 & Tryhackme SSRF Room & Hackerone SSRF Reports](/Days/Day17-18-19.md)
-**20** |  [Wreath Network 03](/Days/Day20.md)
+**20 & 21** |  [Wreath Network 03](/Days/Day20.md)
 
