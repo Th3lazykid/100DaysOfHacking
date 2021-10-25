@@ -44,3 +44,6 @@ Day | Topic
 **15** |  [SSRF Lab #2 & Darknet Diaries Ep 102](/Days/Day15.md)
 **16** |  [SSRF Lab #3](/Days/Day16.md)
 **17, 18 & 19** |  [SSRF Lab #4, #5, #6 & #7 & Tryhackme SSRF Room & Hackerone SSRF Reports](/Days/Day17-18-19.md)
+**20 - 24** |  [Organized HacktoberFest & Gave Talk](/Days/Day20-24.md)
+**25 - 26** | [Mental Break - 2 Days](/Days/Day25-26.md)
+
