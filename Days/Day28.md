@@ -4,6 +4,8 @@
 
 ### Things Done Today:
 
+- [X] Blog: [How to Start Bug Bounties 101 & How to Make a Million in 4 Years](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4) by [Ozgur Alp](https://twitter.com/ozgur_bbh)
+
 - [X]	ZwinK BB S1EP5 - S1EP6:
   - [S1E5: Payload Basics & Intro to SQL Injection (Login Bypass)](https://www.youtube.com/watch?v=sKQ_XfmoSV0):
     - xyz
