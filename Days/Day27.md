@@ -37,9 +37,6 @@
     - [GoBridge Org](https://github.com/gobridge/about-us/blob/master/README.md)
     - Go Playground Overview - https://play.golang.org/
 
-  - Setting up a Development Enviornment
-    - xyz 
-
 
 
 
