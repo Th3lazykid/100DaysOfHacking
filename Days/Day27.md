@@ -11,6 +11,13 @@
     - The Suck factor in BB - the beginning is hard coz you don't get program invites as you get started and the other programs are huge and tough to hack when starting with the same.
 
   - [S1E2: Tools - Hacking with "The Firefox"](https://www.youtube.com/watch?v=V7Xt9IeuSoE):
+    - Scoping the target with network tab in developer tools
+    - Edit and Resend the request [Didn't know about this before]
+    - [Cookie editior](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)
+    - Power of console xD
+    - Firefox proxy 
+    
+  - [S1E3: Tools - Connecting Burp Suite & Firefox + Advanced Proxy](https://www.youtube.com/watch?v=iM6OVwFyQL0):
     - xyz
 
 
