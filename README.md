@@ -46,5 +46,5 @@ Day | Topic
 **17, 18 & 19** |  [SSRF Lab #4, #5, #6 & #7 & Tryhackme SSRF Room & Hackerone SSRF Reports](/Days/Day17-18-19.md)
 **20 - 24** |  [Organized HacktoberFest & Gave Talk](/Days/Day20-24.md)
 **25 - 26** | [Mental Break - 2 Days](/Days/Day25-26.md)
-**27** | [ZwinK BB S1EP1 - S1EP4 & Darknet Diaries Ep 103 & GoLang](/Days/Day27.md)
+**27** | [ZwinK BB S1EP1 - S1EP4 & GoLang](/Days/Day27.md)
 
