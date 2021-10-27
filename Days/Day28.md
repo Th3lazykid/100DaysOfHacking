@@ -18,4 +18,13 @@
 - [X] GoLang: [Tim's YouTube Playlist.](https://www.youtube.com/watch?v=75lJDVT1h0s&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) 5 out of 22 videos.
 
   - [Golang Tutorial #1 - An Introduction to Go Programming](https://www.youtube.com/watch?v=75lJDVT1h0s&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q):
-    - xyz 
+    - Go is build around speed and concurrency.
+    - Imperative programming language.
+    - VsCode overview and downloading go extensions. 
+    - Writing first Go code: [Check here.](/Go/Learningbasics.go)
+    - Anything between ' ' is character not a string. String is collection of characters and has to be between " ".
+    - `go run` command to run any of go lang code.
+    - `go build` command to compile any of go lang file/code. Also with extention of `.exe` and can be runned by double-clicking it or by `./nameoffile.exe` if on linux. And it does not need Go installed to run the golang file. 
+
+  - [Golang Tutorial #2 - Variables & Data Types](https://www.youtube.com/watch?v=pM0-CMysa_M&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=2)
+    - xyz  
