@@ -28,12 +28,18 @@
     - Python3 -- Already downloaded, He said he's gonna teach the same in future videos as well, which is pretty cool.
     - Google Search Recon -- Using google smartly with google dorks. Narrowing down the target.
 
+- [X] GoLang: [YouTube Tutorial](https://www.youtube.com/watch?v=YS4e4q9oBaU), 6 hours long, each day - 1 hour.
+
+  - Introduction
+    - Created by Robert Griesemer, Rob Pike & Ken Thompson
+    - Understanding why use go-lang and it's benefits -- Here's a good blog to [read](https://codilime.com/blog/why-golang-may-be-a-good-choice-for-your-project/). 
+    - https://golang.org/ - Website Overview
+    - [GoBridge Org](https://github.com/gobridge/about-us/blob/master/README.md)
+    - Go Playground Overview - https://play.golang.org/
+
+  - Setting up a Development Enviornment
+    - xyz 
 
 
 
-- [X] Darknet Diaries:
-  - Episode 103: 
 
-
-- [X] GoLang:
-  - xyz
