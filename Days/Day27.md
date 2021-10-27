@@ -18,7 +18,17 @@
     - Firefox proxy 
     
   - [S1E3: Tools - Connecting Burp Suite & Firefox + Advanced Proxy](https://www.youtube.com/watch?v=iM6OVwFyQL0):
-    - xyz
+    - Configuring BurpSuite with Firefox
+    - Few bunch of BurpSuite features
+
+  - [S1E4: Tools - Notepad++, IP Vanish, Python 3, and Google](https://www.youtube.com/watch?v=vAzj04Pepzo):
+    - Using Notepad++ -- But sorry, I'm gonna stick to sublime text xD
+    - Learning resources -- [Bugbountyhunter](https://www.bugbountyhunter.com/) [Lucky to have lifetime subs for BB hunter, Thank you Sean <3] & [Port Swigger - Web Security Acadmey](https://portswigger.net/web-security)
+    - IpVanish Vpn -- I do have Nord Vpn, so gonna use that. 
+    - Python3 -- Already downloaded, He said he's gonna teach the same in future videos as well, which is pretty cool.
+    - Google Search Recon -- Using google smartly with google dorks. Narrowing down the target.
+
+
 
 
 - [X] Darknet Diaries:
