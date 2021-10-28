@@ -4,7 +4,7 @@
 
 ### Things Done Today:
 
-- [X] Blog: Tooooo goooodddd blogs to [MUST] read. Brain-fucked especially with the last one.
+- [X] Blog: Tooooo goooodddd blogs to [MUST] read. Brain-fucked especially with the last one. Read it, Period.
   - [How to Start Bug Bounties 101 & How to Make a Million in 4 Years](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4) by [Ozgur Alp](https://twitter.com/ozgur_bbh)
   - [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout) by [Maya Kaczorowski](https://www.twitter.com/MayaKaczorowski)
   - [Creativity, Self-Doubt & Doing Remarkable Work](https://s0md3v.github.io/blog/creativity-and-self-doubt) by [Somdev Sangwan](https://twitter.com/s0md3v)
