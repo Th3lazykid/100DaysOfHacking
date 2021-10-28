@@ -47,5 +47,5 @@ Day | Topic
 **20 - 24** |  [Organized HacktoberFest & Gave Talk](/Days/Day20-24.md)
 **25 - 26** | [Mental Break - 2 Days](/Days/Day25-26.md)
 **27** | [ZwinK BB S1EP1 - S1EP4 & GoLang](/Days/Day27.md)
-**28 & 29** | [ZwinK BB S1EP5 - S1EP6 & GoLang & Blogs](/Days/Day28.md)
+**28 & 29** | [ZwinK BB S1EP5 - S1EP8 & GoLang & Blogs](/Days/Day28.md)
 
