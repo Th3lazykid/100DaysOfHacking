@@ -30,4 +30,12 @@
     - `go build` command to compile any of go lang file/code. Also with extention of `.exe` and can be runned by double-clicking it or by `./nameoffile.exe` if on linux. And it does not need Go installed to run the golang file. 
 
   - [Golang Tutorial #2 - Variables & Data Types](https://www.youtube.com/watch?v=pM0-CMysa_M&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=2)
-    - xyz  
+    - Variable is way of storing and accessing information.
+    - If a type of variable is declared it cannot be changed afterwards until or unless it is redefined.
+    - Name of the valid variable can only include - Numbers,letters & underscores. Also it cannot start with numbers
+    - Syntax: `var name type`
+    - Go [Data Types](https://www.tutorialspoint.com/go/go_data_types.htm)
+    - Booleans - true is 1 and false is 0
+    
+  - [Golang Tutorial #3 - Assignment Expression & Implicit vs Explicit](https://www.youtube.com/watch?v=UVp7Cz1NMwA&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=3)
+    -  
