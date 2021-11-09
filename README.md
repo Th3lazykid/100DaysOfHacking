@@ -5,6 +5,8 @@
 - With having no good control over consistency and persistence, this is something hard and challenging, but let's do it. Baby Steps it is.
 - Inspirations works both ways, 
   - Somehow if this repo or the initiative helps you to take an initiative, I would not be enough proud.
+- [Edit, 9th Nov]:
+  - F Exams. Could not take risk as it is offline as well last exam of bachelor's degree.  
 
 # Objective
 
@@ -47,6 +49,6 @@ Day | Topic
 **20 - 24** |  [Organized HacktoberFest & Gave Talk](/Days/Day20-24.md)
 **25 - 26** | [Mental Break - 2 Days](/Days/Day25-26.md)
 **27** | [ZwinK BB S1EP1 - S1EP4 & GoLang](/Days/Day27.md)
-**28 - 39** | [Null Infra Security Study Group Blogs, DNS, GoLang & Darknet Diaries Ep 103](/Days/Day28-39.md)
+**28 - 39** | [Null Infra Security Study Group, Blogs, DNS, GoLang & Darknet Diaries Ep 103](/Days/Day28-39.md)
    XXX         | [EXAM BREAK - UNTIL 20TH DECEMBER](/Days/Exam.md)
 
