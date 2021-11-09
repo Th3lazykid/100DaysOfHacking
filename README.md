@@ -50,5 +50,5 @@ Day | Topic
 **25 - 26** | [Mental Break - 2 Days](/Days/Day25-26.md)
 **27** | [ZwinK BB S1EP1 - S1EP4 & GoLang](/Days/Day27.md)
 **28 - 39** | [Null Infra Security Study Group, Blogs, DNS, GoLang & Darknet Diaries Ep 103](/Days/Day28-39.md)
-   XXX         | [EXAM BREAK - UNTIL 20TH DECEMBER](/Days/Exam.md)
+   XXX         | [EXAM BREAK - For 1 Month and 20 days](/Days/Exam.md)
 
