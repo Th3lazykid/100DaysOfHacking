@@ -47,6 +47,6 @@ Day | Topic
 **20 - 24** |  [Organized HacktoberFest & Gave Talk](/Days/Day20-24.md)
 **25 - 26** | [Mental Break - 2 Days](/Days/Day25-26.md)
 **27** | [ZwinK BB S1EP1 - S1EP4 & GoLang](/Days/Day27.md)
-**28 & 39** | [Blogs | DNS | GoLang | Darknet Diaries Ep 103](/Days/Day28-39.md)
+**28 & 39** | [Blogs, DNS, GoLang & Darknet Diaries Ep 103](/Days/Day28-39.md)
    XXX         | [EXAM BREAK - UNTIL 20TH DECEMBER](/Days/Exam.md)
 
