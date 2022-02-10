@@ -5,12 +5,16 @@
 - With having no good control over consistency and persistence, this is something hard and challenging, but let's do it. Baby Steps it is.
 - Inspirations works both ways, 
   - Somehow if this repo or the initiative helps you to take an initiative, I would not be enough proud.
-- [Edit, 9th Nov]:
+- **[Edit, 9th Nov]:**
   - F Exams. Could not take risk as it is offline as well last exam of bachelor's degree.  
 
 # Objective
 
 <img width="590" alt="Screenshot 2021-09-29 at 2 36 12 AM" src="https://user-images.githubusercontent.com/56188454/135165713-184ed135-7024-4353-a436-e4cfeea751c3.png">
+
+### Change In Objective [Edit 11th Nov]
+
+**Bug Bounty [Synack] and Getting an Internship.**
 
 ### What people say?
 
