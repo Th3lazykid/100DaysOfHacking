@@ -20,9 +20,9 @@
 # Commitment Timeline xD
 
 
-| Start Date  | Exam Break | End Date    | 
+| Start Date  | Exam Break | Depression | Continue Date    |
 | ----------- | ----------- | ---------- |
-| 29th September, 2021 |   1M, 20D   | 16 February, 2022 |
+| 29th September, 2021 |   1M, 20D   | 1 Month | 11 February, 2022 |
 
 ---
 [Let's see how far I can go]
