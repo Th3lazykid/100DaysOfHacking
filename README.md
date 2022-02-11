@@ -26,7 +26,7 @@
 
 | Start Date  | Exam Break | Depression | Continue Date    |
 | ----------- | ----------- | ---------- | ------------- |
-| 29th September, 2021 |   1M, 20D   | 1 Month | 12 February, 2022 |
+| 29th September, 2021 |   1M, 20D   | 1 Month | 13 February, 2022 |
 
 ---
 [Let's see how far I can go]
@@ -55,4 +55,5 @@ Day | Topic
 **27** | [ZwinK BB S1EP1 - S1EP4 & GoLang](/Days/Day27.md)
 **28 - 39** | [Null Infra Security Study Group, Blogs, DNS, GoLang & Darknet Diaries Ep 103](/Days/Day28-39.md)
    XXX         | [EXAM BREAK - For 1 Month and 20 Days](/Days/Exam.md)
+   XXX         | [Depression - 1 Month](/Days/Saddays.md)
 
