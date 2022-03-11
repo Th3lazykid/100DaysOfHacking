@@ -7,7 +7,7 @@
   - Somehow if this repo or the initiative helps you to take an initiative, I would not be enough proud.
 - **[Edit, 9th Nov, 2021]:**
   - F Exams. Could not take risk as it is offline as well last exam of bachelor's degree.
-- **[Edit, 7th March, 2022]:**
+- **[Edit, 12th March, 2022]:**
   - Back - after all the things going on with life.
   - At this moment, I've applied for Internship in multiple companies and trying to focus more on Bug bounties [Web] at Synack. 
 
@@ -15,7 +15,7 @@
 
 <img width="590" alt="Screenshot 2021-09-29 at 2 36 12 AM" src="https://user-images.githubusercontent.com/56188454/135165713-184ed135-7024-4353-a436-e4cfeea751c3.png">
 
-### Change In Objective [Edit 7th March] [Is]
+### Change In Objective [Edit 12th March] [Is]
 
  - **Bug Bounty [Web, Synack] and Getting an Internship.**
 
@@ -29,7 +29,7 @@
 
 | Start Date  | Exam Break | Depression | Continue Date    |
 | ----------- | ----------- | ---------- | ------------- |
-| 29th September, 2021 |   1M, 20D   | 1.5 Month | 7 March, 2022 |
+| 29th September, 2021 |   1M, 20D   | 1.5 Month | 12 March, 2022 |
 
 ---
 [Let's see how far I can go]
@@ -59,4 +59,5 @@ Day | Topic
 **28 - 39** | [Null Infra Security Study Group, Blogs, DNS, GoLang & Darknet Diaries Ep 103](/Days/Day28-39.md)
    XXX         | [EXAM BREAK - For 1 Month and 20 Days](/Days/Exam.md)
    XXX         | [Depression - 1.5 Month]
+**40 - 47** | [File Upload Vulnerability](/Days/fileupload.md)
 
