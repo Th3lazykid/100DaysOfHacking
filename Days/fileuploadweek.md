@@ -87,7 +87,34 @@ Lab 7: Exploiting file upload race conditions
 
 - Since new to race conditions, simply followed the solution given - also the note in the end of the solution is imp - adding `\r\n\r\n` sequence for GET request. 
 
+---
 
+## Day - 2: [Completed HTB Academy - File upload Attacks Module](https://academy.hackthebox.com/achievement/3444/136)
+
+- I'm not sure if I can share my notes over here, since it's a paid lab [bought it with student subs], but below are the topics I learned - most of them are recap with more info on it. But I do highly suggest you people to go through this module once - pretty neat info. 
+
+- Topics Learned/recaped:
+	- Absent Validation
+	- Upload Exploitation
+		- Web Shell
+		- Reverse Shell
+	- Client-Side Validation
+	- Blacklist Filters: _the web application checks if the extension exists anywhere within the file name._
+	- Whitelist Filters: _the web application checks if the file name ends with the extension._
+		- Double Extensions
+		- Reverse Double Extensions
+		- Character Injection
+	- Type Filters
+	- Decompression Bomb
+	- Preventing File Upload Vulnerabilities
+		- Extension Validation
+		- Content Validation
+		- Upload Disclosure
+	- Lastly amazing Skills Assessment - Nailed it.
+
+---
+
+	
 
 
 
