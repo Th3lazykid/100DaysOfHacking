@@ -2,6 +2,13 @@ It is during our darkest moments that we must focus to see the light. - Aristotl
 
 # Week into File Upload Vuln Summary:
 
+| Day  | Content |
+| ----- | ------- |
+| 1 |   [Completed Port Swigger - File upload vulnerabilities](https://github.com/Th3lazykid/100DaysOfHacking/blob/main/Days/fileuploadweek.md#day---1-completed-port-swigger---file-upload-vulnerabilities)   |
+| 2 | [Completed HTB Academy - File upload Attacks Module](https://github.com/Th3lazykid/100DaysOfHacking/blob/main/Days/fileuploadweek.md#day---2-completed-htb-academy---file-upload-attacks-module) |
+
+
+
 ## Day - 1: Completed Port Swigger - File upload vulnerabilities
 
 Lab 1: Exploiting unrestricted file uploads to deploy a web shell
