@@ -59,5 +59,5 @@ Day | Topic
 **28 - 39** | [Null Infra Security Study Group, Blogs, DNS, GoLang & Darknet Diaries Ep 103](/Days/Day28-39.md)
    XXX         | [EXAM BREAK - For 1 Month and 20 Days](/Days/Exam.md)
    XXX         | [Depression - 1.5 Month]
-**40 - 47** | [File Upload Vulnerability](/Days/fileupload.md)
+**40 - 41** | [File Upload Vulnerability](/Days/fileupload.md)
 
