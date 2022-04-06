@@ -4,7 +4,7 @@
 
 ### Things Done Today:
 
-- [X] **Subdomain Enumeration:**
+- [X] **Tool:** [Amass](https://github.com/OWASP/Amass)
 
 
 
