@@ -60,5 +60,5 @@ Day | Topic
    XXX         | [EXAM BREAK - For 1 Month and 20 Days](/Days/Exam.md)
    XXX         | [Depression - 1.5 Month]
 **40 - 41** | [File Upload Vulnerability](/Days/fileupload.md)
-**42** | [Subdomain Enumeration, Python, Authentication & Blogs](/Days/Day42.md)
+**42** | [Subdomain Enumeration, Python & Blogs](/Days/Day42.md)
 
