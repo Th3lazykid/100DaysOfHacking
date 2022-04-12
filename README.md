@@ -1,10 +1,5 @@
 # #100DaysOfHacking
 
-### Objective
-
- - **Bug Bounty [Web, Synack], Coding - Python.**
-
----
 [Let's see how far I can go]
 
 Day | Topic
