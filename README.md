@@ -1,35 +1,8 @@
 # #100DaysOfHacking
 
-- Hacking and Learning consistently for 100 days straight af. [yes, no breaks except mental-break ones, Obviously.]
-- This Repo is one stop to all the resources shared on Twitter - [Th3lazykid](https://twitter.com/Th3lazykid) each day. Following will cost you a $, kidding.
-- With having no good control over consistency and persistence, this is something hard and challenging, but let's do it. Baby Steps it is.
-- Inspirations works both ways, 
-  - Somehow if this repo or the initiative helps you to take an initiative, I would not be enough proud.
-- **[Edit, 9th Nov, 2021]:**
-  - F Exams. Could not take risk as it is offline as well last exam of bachelor's degree.
-- **[Edit, 6th April, 2022]:**
-  - Back - after all the things going on with life.
-  - At this moment, I've applied for Internship in multiple companies and trying to focus more on Bug bounties [Web] at Synack. 
+### Objective
 
-### Objective [Was]
-
-<img width="590" alt="Screenshot 2021-09-29 at 2 36 12 AM" src="https://user-images.githubusercontent.com/56188454/135165713-184ed135-7024-4353-a436-e4cfeea751c3.png">
-
-### Change In Objective [Edit 6th April] [Is]
-
- - **Bug Bounty [Web, Synack], Coding - Go and Getting an Internship.**
-
-### What people say?
-
-<img width="583" alt="Screenshot 2021-10-05 at 7 15 32 PM" src="https://user-images.githubusercontent.com/56188454/136035690-9d02dfa5-f515-4230-95a4-0279834ac1ea.png">
-
-
-# Commitment Timeline xD
-
-
-| Start Date  | Exam Break | Depression | Continue Date    |
-| ----------- | ----------- | ---------- | ------------- |
-| 29th September, 2021 |   1M, 20D   | 1.5 Month | 6th April, 2022 |
+ - **Bug Bounty [Web, Synack], Coding - Python.**
 
 ---
 [Let's see how far I can go]
@@ -57,8 +30,6 @@ Day | Topic
 **25 - 26** | [Mental Break - 2 Days](/Days/Day25-26.md)
 **27** | [ZwinK BB S1EP1 - S1EP4 & GoLang](/Days/Day27.md)
 **28 - 39** | [Null Infra Security Study Group, Blogs, DNS, GoLang & Darknet Diaries Ep 103](/Days/Day28-39.md)
-   XXX         | [EXAM BREAK - For 1 Month and 20 Days](/Days/Exam.md)
-   XXX         | [Depression - 1.5 Month]
 **40 - 41** | [File Upload Vulnerability](/Days/fileupload.md)
 **42** | [Subdomain Enumeration, Python & Blogs](/Days/Day42.md)
 
